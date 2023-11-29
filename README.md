@@ -1,10 +1,6 @@
-### 주홍철
-Quant Developer  
-
 #### 소개
  - 현) 스타트업, [어비스](http://avisspick.com/) 대표 및 CTO
  - 전) 네이버 개발자
- - 전) 공군 기상단 기상체계개발실 개발장교(참모총장상 및 사령관상 등 수상 4회)
  - 자바스크립트 테스트 프레임워크 Mocha.js contributor 
  - 백준 알고리즘 상위 0.1%
  - [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoN1XLeAX2OazuZdQ9b8U9Q)    

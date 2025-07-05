@@ -1,7 +1,6 @@
 #### 소개
  - 현) 스타트업, [어비스](https://aviss.kr/main/main.php) 대표 및 리드개발자
  - 전) 네이버 개발자
- - 자바스크립트 테스트 프레임워크 Mocha.js contributor 
  - 백준 알고리즘 상위 0.1%
  - [![Youtube Badge](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCoN1XLeAX2OazuZdQ9b8U9Q)    
 

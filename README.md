@@ -1,5 +1,12 @@
 
 ```
+---
+name: yt-mini
+description: 유튜브 콘텐츠 기획 보조. 주제를 주면 최근 관련 영상을 웹에서 찾아 표로 정리하고 새 영상 아이디어를 제안한다. "유튜브 주제 찾아줘", "영상 아이디어 뽑아줘" 같은 요청에 사용.
+argument-hint: discover [주제]
+allowed-tools: WebSearch
+---
+
 입력: $ARGUMENTS
 
 입력의 첫 단어가 하위 명령이고, 나머지가 주제다. 하위 명령이 없거나 아래 목록에 없으면 아무 작업도 하지 말고 사용법(`/yt-mini discover 주제`)만 안내한다.
@@ -13,7 +20,6 @@
 5. 표 아래에 "아직 덜 다뤄진 각도" 3개와 그 근거, 각 각도에 맞는 영상 제목 후보를 2개씩 쓴다.
 6. 결과를 `ideas/오늘날짜-주제.md` 파일로 저장한다. 날짜는 YYYY-MM-DD 형식. `ideas` 폴더가 없으면 만든다.
 7. 마지막에 저장 경로와, 사람이 직접 확인해야 할 항목을 알려준다.
-
 ```
 #### Introduce
  - AVISS CTO & CEO [AVISS](https://aviss.kr/main/main.php) 
